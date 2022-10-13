@@ -1,0 +1,5 @@
+{
+  "name": "sst-notes",
+  "region": "ca-central-1",
+  "main": "stacks/index.js"
+}
